@@ -71,14 +71,14 @@
 
 <div align="center">
   <a href="https://github.com/nerolurien">
-    <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="GitHub Stats" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=nerolurien&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="GitHub Stats" width="48%" />
   </a>
   <a href="https://github.com/nerolurien">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=1a1b27" alt="GitHub Streak" width="48%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nerolurien&theme=tokyonight&hide_border=true&background=1a1b27" alt="GitHub Streak" width="48%" />
   </a>
   <br/><br/>
   <a href="https://github.com/nerolurien">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="Top Languages" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nerolurien&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="Top Languages" width="48%" />
   </a>
 </div>
 
@@ -101,5 +101,5 @@
 <br/>
 <div align="center">
   <p>Visitor Count:</p>
-  <img src="https://profile-counter.glitch.me/YOUR_GITHUB_USERNAME/count.svg" alt="Profile views" />
+  <img src="https://profile-counter.glitch.me/nerolurien/count.svg" alt="Profile views" />
 </div>
