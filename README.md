@@ -100,6 +100,5 @@
 
 <br/>
 <div align="center">
-  <p>Visitor Count:</p>
-  <img src="https://profile-counter.glitch.me/nerolurien/count.svg" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=nerolurien&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
 </div>
