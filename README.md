@@ -1,8 +1,8 @@
 <div align="center">
-  <!-- Banner Aesthetic (Time Gradient) -->
+  <!-- Banner -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Hi%20There!%20%F0%9F%91%8B%20I'm%20Rafid&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Developer&descAlignY=51&descAlign=62" alt="Header Banner" />
   
-  <br/>
+  <br/><br/>
   
   <!-- Typing Effect -->
   <a href="https://git.io/typing-svg">
@@ -10,7 +10,7 @@
   </a>
 </div>
 
----
+<br/>
 
 ### 👨‍💻 A Little Bit About Me
 
@@ -19,47 +19,47 @@
 * ⚡ In my free time, I love exploring new technologies and building aesthetic user interfaces.
 * 📫 How to reach me: **[rafiddwiprakoso@gmail.com](mailto:rafiddwiprakoso@gmail.com)**
 
----
+<br/>
 
 ### 🛠️ Tech Stack & Tools
 
 <div align="center">
-  <p><i>Languages, Frameworks, and Tools I use:</i></p>
-  <br/>
-  <!-- Skill Icons (Modern & Clean Grid) -->
+  <p><i>Languages, Frameworks, and Tools I use daily:</i></p>
+  <!-- Skill Icons Grid -->
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,nodejs,express,laravel,go,mysql,postgres,mongodb,docker,git,figma,postman,cs,unity&perline=9" alt="My Skills" />
   </a>
 </div>
+
 <br/>
 
----
-
-### 🏆 GitHub Trophies & Stats
+### 📊 GitHub Stats & Activity
 
 <div align="center">
-    <!-- Top Languages -->
-  <a href="https://github.com/nerolurien">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nerolurien&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="Top Languages" />
-  </a>
-  <br/><br/>
-
-  <br/>
-<div align="center">
-  <h3>Contributions 3D</h3>
-  <img src="https://raw.githubusercontent.com/nerolurien/nerolurien/main/profile-3d-contrib/profile-night-view.svg" alt="3D Contrib" width="100%" />
-</div>
-  
-  <!-- Stats & Streak -->
+  <!-- Baris 1: Stats & Streak -->
   <a href="https://github.com/nerolurien">
     <img src="https://github-readme-stats.vercel.app/api?username=nerolurien&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="GitHub Stats" width="48%" />
   </a>
   <a href="https://github.com/nerolurien">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=nerolurien&theme=tokyonight&hide_border=true&background=1a1b27" alt="GitHub Streak" width="48%" />
   </a>
+  
+  <br/><br/>
+  
+  <!-- Baris 2: Top Languages -->
+  <a href="https://github.com/nerolurien">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nerolurien&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="Top Languages" width="50%" />
+  </a>
+  
+  <br/><br/>
+
+  <!-- Baris 3: 3D Contribution Graph -->
+  <a href="https://github.com/nerolurien">
+    <img src="https://raw.githubusercontent.com/nerolurien/nerolurien/main/profile-3d-contrib/profile-night-view.svg" alt="3D Contrib" width="100%" />
+  </a>
 </div>
 
----
+<br/>
 
 ### 🌐 Let's Connect
 
