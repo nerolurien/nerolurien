@@ -43,6 +43,12 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nerolurien&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="Top Languages" />
   </a>
   <br/><br/>
+
+  <br/>
+<div align="center">
+  <h3>Contributions 3D</h3>
+  <img src="https://raw.githubusercontent.com/nerolurien/nerolurien/main/profile-3d-contrib/profile-night-view.svg" alt="3D Contrib" width="100%" />
+</div>
   
   <!-- Stats & Streak -->
   <a href="https://github.com/nerolurien">
