@@ -1,82 +1,83 @@
 <div align="center">
-  <!-- Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Hi%20There!%20%F0%9F%91%8B%20I'm%20Rafid&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Developer&descAlignY=51&descAlign=62" alt="Header Banner" />
+  <!-- Minimalist Transparent Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=120&section=header&text=Rafid%20Dwi%20Prakoso&fontColor=ffffff&fontSize=50&animation=fadeIn" alt="Header" />
   
-  <br/><br/>
+  <br/>
   
-  <!-- Typing Effect -->
+  <!-- Typing Effect Monochrome -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=7aa2f7&center=true&vCenter=true&width=435&lines=Fullstack+Developer;Building+Modern+Web+Apps;Learning+DevOps+%26+Docker;Exploring+Unity+GameDev" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=500&size=20&pause=1000&color=B0B0B0&center=true&vCenter=true&width=435&lines=Fullstack+Developer;Building+Web+Applications;Learning+Docker+%26+Unity" alt="Typing SVG" />
   </a>
 </div>
 
+<br/><br/>
+
+### ▫️ A Little Bit About Me
+
+> 🚀 Passionate Fullstack Developer focused on clean code.  
+> 🔭 Currently diving into DevOps (Docker) and GameDev (Unity).  
+> ⚡ Finding peace in building aesthetic & scalable applications.  
+> 📫 Contact me: **[rafiddwiprakoso@gmail.com](mailto:rafiddwiprakoso@gmail.com)**  
+
 <br/>
 
-### 👨‍💻 A Little Bit About Me
-
-* 🚀 I'm a passionate **Fullstack Developer** focused on building clean and scalable web applications.
-* 🔭 I’m currently diving deep into **DevOps (Docker)** and learning **Game Development with Unity**.
-* ⚡ In my free time, I love exploring new technologies and building aesthetic user interfaces.
-* 📫 How to reach me: **[rafiddwiprakoso@gmail.com](mailto:rafiddwiprakoso@gmail.com)**
-
-<br/>
-
-### 🛠️ Tech Stack & Tools
+### ▫️ Tech Stack & Tools
 
 <div align="center">
-  <p><i>Languages, Frameworks, and Tools I use daily:</i></p>
-  <!-- Skill Icons Grid -->
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,nodejs,express,laravel,go,mysql,postgres,mongodb,docker,git,figma,postman,cs,unity&perline=9" alt="My Skills" />
-  </a>
+  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue.js-000000?style=for-the-badge&logo=vuedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind-000000?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-000000?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-000000?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
 </div>
 
-<br/>
+<br/><br/>
 
-### 📊 GitHub Stats & Activity
+### ▫️ GitHub Stats
 
 <div align="center">
-  <!-- Baris 1: Stats & Streak -->
+  <!-- Baris 1: Stats & Streak (Monochrome Theme) -->
   <a href="https://github.com/nerolurien">
-    <img src="https://github-readme-stats.vercel.app/api?username=nerolurien&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="GitHub Stats" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=nerolurien&show_icons=true&title_color=ffffff&icon_color=ffffff&text_color=cccccc&bg_color=000000&hide_border=true" alt="GitHub Stats" width="48%" />
   </a>
   <a href="https://github.com/nerolurien">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nerolurien&theme=tokyonight&hide_border=true&background=1a1b27" alt="GitHub Streak" width="48%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nerolurien&background=000000&border=000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=cccccc&currStreakLabel=cccccc&sideLabels=cccccc&dates=cccccc&hide_border=true" alt="GitHub Streak" width="48%" />
   </a>
   
   <br/><br/>
   
   <!-- Baris 2: Top Languages -->
   <a href="https://github.com/nerolurien">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nerolurien&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="Top Languages" width="50%" />
-  </a>
-  
-  <br/><br/>
-
-  <!-- Baris 3: 3D Contribution Graph -->
-  <a href="https://github.com/nerolurien">
-    <img src="https://raw.githubusercontent.com/nerolurien/nerolurien/main/profile-3d-contrib/profile-night-view.svg" alt="3D Contrib" width="100%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nerolurien&layout=compact&title_color=ffffff&text_color=cccccc&bg_color=000000&hide_border=true" alt="Top Languages" width="50%" />
   </a>
 </div>
 
-<br/>
+<br/><br/>
 
-### 🌐 Let's Connect
+### ▫️ Links
 
 <div align="center">
   <a href="https://www.linkedin.com/in/rafid-dwi-prakoso-895a80300" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://rafid-three.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="mailto:rafiddwiprakoso@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
 
 <br/>
-
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=nerolurien&label=Profile%20Views&color=7aa2f7&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=nerolurien&label=Views&color=000000&style=flat-square" alt="Profile Views" />
 </div>
