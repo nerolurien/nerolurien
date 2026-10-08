@@ -38,9 +38,9 @@
 ### 🏆 GitHub Trophies & Stats
 
 <div align="center">
-  <!-- Trophies -->
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=nerolurien&theme=tokyonight&margin-w=15&no-frame=true&no-bg=true" alt="Trophies" />
+    <!-- Top Languages -->
+  <a href="https://github.com/nerolurien">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nerolurien&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="Top Languages" />
   </a>
   <br/><br/>
   
