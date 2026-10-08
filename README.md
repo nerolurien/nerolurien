@@ -33,7 +33,6 @@
   <img src="https://img.shields.io/badge/Go-161B22?style=for-the-badge&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-161B22?style=for-the-badge&logo=mysql&logoColor=white" />
   <br/>
-  <img src="https://img.shields.io/badge/Docker-161B22?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-161B22?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-161B22?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Unity-161B22?style=for-the-badge&logo=unity&logoColor=white" />
