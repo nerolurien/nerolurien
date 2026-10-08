@@ -1,12 +1,12 @@
+<!-- Header / Banner & Typing SVG -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20There!%20%F0%9F%91%8B%20I'm%20Rafid&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Developer&descAlignY=51&descAlign=62" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=5a4bce&height=250&section=header&text=Hi%20There!%20%F0%9F%91%8B%20I'm%20Rafid&fontColor=ffffff&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Developer&descAlignY=51&descAlign=62" alt="Header Banner" />
   
   <br/>
   
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Fullstack+Developer;Building+Modern+Web+Apps;Learning+DevOps+%26+Docker" alt="Typing SVG" />
   </a>
-</div>
 </div>
 
 ---
