@@ -4,9 +4,9 @@
   
   <br/><br/>
   
-  <!-- Typing Effect (Font disamakan dengan Banner & Tema) -->
+  <!-- Typing Effect (Courier New) -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&pause=1000&color=ffffff&center=true&vCenter=true&width=500&lines=Building+Aesthetic+Web+Apps;Learning+DevOps+%26+Unity;Dark+Minimalist" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=600&size=20&pause=1000&color=ffffff&center=true&vCenter=true&width=500&lines=Building+Aesthetic+Web+Apps;Learning+DevOps+%26+Unity;Dark+Minimalist" alt="Typing SVG" />
   </a>
 </div>
 
