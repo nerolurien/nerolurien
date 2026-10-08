@@ -1,12 +1,12 @@
 <div align="center">
-  <!-- Banner Bergelombang Warna Abu-abu -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=30363d&height=250&section=header&text=Hi%20There!%20%F0%9F%91%8B%20I'm%20Rafid&fontColor=ffffff&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Developer&descColor=cccccc&descAlignY=51&descAlign=62" alt="Header Banner" />
+  <!-- Banner Bergelombang Abu-abu (Tanpa Emoji) -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=30363d&height=250&section=header&text=Hi%20There!%20I'm%20Rafid&fontColor=ffffff&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Developer&descColor=cccccc&descAlignY=51&descAlign=62" alt="Header Banner" />
   
   <br/><br/>
   
-  <!-- Typing Effect Minimalist -->
+  <!-- Typing Effect (Font disamakan dengan Banner & Tema) -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=600&size=20&pause=1000&color=ffffff&center=true&vCenter=true&width=500&lines=Building+Aesthetic+Web+Apps;Learning+DevOps+%26+Unity;Dark+Minimalist" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&pause=1000&color=ffffff&center=true&vCenter=true&width=500&lines=Building+Aesthetic+Web+Apps;Learning+DevOps+%26+Unity;Dark+Minimalist" alt="Typing SVG" />
   </a>
 </div>
 
