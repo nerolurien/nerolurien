@@ -1,18 +1,16 @@
 <div align="center">
-  <br/><br/>
-  <!-- Header (Courier New) -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=700&size=45&pause=3000&color=ffffff&center=true&vCenter=true&width=600&lines=Hi+There!+I'm+Rafid" alt="Header" />
-  </a>
+  <!-- Banner Bergelombang Abu-Abu (Tanpa Emoji) -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=30363d&height=250&section=header&text=Hi%20There!%20I'm%20Rafid&fontColor=ffffff&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Developer&descColor=cccccc&descAlignY=51&descAlign=62" alt="Header Banner" />
   
-  <br/>
-  
-  <!-- Subtitle (Courier New) -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=600&size=20&pause=1000&color=cccccc&center=true&vCenter=true&width=600&lines=Fullstack+Developer;Building+Aesthetic+Apps;DevOps+%26+GameDev;Dark+Minimalist" alt="Typing SVG" />
-  </a>
   <br/><br/>
+  
+  <!-- Typing Effect (Courier New, Lebar Pas Anti-Kepotong) -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=600&size=20&pause=1000&color=ffffff&center=true&vCenter=true&width=650&lines=Building+Aesthetic+Web+Apps;Learning+DevOps+%26+Docker;Exploring+Unity+GameDev;Dark+Minimalist" alt="Typing SVG" />
+  </a>
 </div>
+
+<br/>
 
 ---
 
@@ -55,7 +53,7 @@
 ### ▫️ GitHub Stats & Activity
 
 <div align="center">
-  <!-- Baris 1: Stats & Streak (SEAMLESS DARK BACKGROUND) -->
+  <!-- Baris 1: Stats & Streak (SEAMLESS DARK THEME) -->
   <a href="https://github.com/nerolurien">
     <img src="https://github-readme-stats.vercel.app/api?username=nerolurien&show_icons=true&title_color=ffffff&icon_color=ffffff&text_color=cccccc&bg_color=0d1117&hide_border=true" alt="GitHub Stats" width="48%" />
   </a>
