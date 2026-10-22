@@ -85,5 +85,5 @@
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=nerolurien&label=Views&color=161B22&style=flat-square" alt="Profile Views" />
+  <img src="https://hits.sh/github.com/nerolurien.svg?style=flat-square&label=Profile%20Views&color=30363d&labelColor=0d1117" alt="Profile Views" />
 </div>
